@@ -8,7 +8,6 @@
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=plotly&logoColor=white)](https://matplotlib.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
 
 ---
 
