@@ -17,6 +17,14 @@
 
 ---
 
+## 🎥 Explanation Video
+
+Watch a walkthrough of this project explaining the approach, calculations, and key findings:
+
+▶️ **[Watch the Explanation Video](https://drive.google.com/file/d/12qevGE7D2tOXS2ApDcsaCEBDZwwgen_6/view?usp=drive_link)**
+
+---
+
 ## 🎯 Project Objective
 
 To analyze and quantify the probability of students passing a final examination by studying the relationship between key academic behaviors (study hours, attendance, group discussion, previous scores) and the final pass/fail outcome, using rigorous probability theory and statistical reasoning.
